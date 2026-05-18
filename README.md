@@ -73,9 +73,7 @@ Representative MedGemma instantiation of the shared organ-attention frontend:
 
 The experiments compare different ways of passing visual evidence into language decoders, including token-count variants, mask downsampling, Perceiver-style resampling, multiscale visual fusion, alignment losses, and decoder-family changes.
 
-## Thesis-Final Results
-
-The handover branch is intentionally code-focused and omits heavy generated outputs. The tables and figures below are copied from the thesis-final writeup and are the most accurate summary of the reported experiments.
+## Final Results
 
 ### Core MedGemma Ablations
 
