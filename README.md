@@ -165,6 +165,11 @@ This thesis workspace builds on the public FVLM codebase:
 - My research workspace: [gktpmuhammed/fvlm](https://github.com/gktpmuhammed/fvlm)
 - Thesis artifacts: figures and tables copied from the final LaTeX thesis source.
 
-## Status
+## Code Availability
 
-This is a showcase repository. The full experimental code currently remains in `gktpmuhammed/fvlm`. The next step is to copy the cleanest training, evaluation, and visualization scripts into this repository with minimal setup instructions.
+This repository is a concise project page for the thesis results. The implementation is available in the public research workspace:
+
+- Clean migration branch: [`gktpmuhammed/fvlm/tree/handover/clean-migration`](https://github.com/gktpmuhammed/fvlm/tree/handover/clean-migration)
+- Main fork: [`gktpmuhammed/fvlm`](https://github.com/gktpmuhammed/fvlm)
+
+The split keeps this page focused on the project narrative, figures, and thesis-final tables while the full experimental code remains in the original research repository.
